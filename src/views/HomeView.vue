@@ -63,7 +63,7 @@ onMounted(() => {
     </header>
     
     <section class="bg-black text-white py-16 text-center px-4">
-      <h2 class="text-4xl md:text-5xl font-bold mb-4">Verão 2025</h2>
+      <h2 class="text-4xl md:text-5xl font-bold mb-4">Coleção 2026</h2>
       <p class="text-gray-400 max-w-xl mx-auto text-lg">Peças exclusivas selecionadas para trazer elegância e conforto para o seu dia a dia.</p>
     </section>
 
