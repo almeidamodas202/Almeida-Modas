@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset básico adicional para garantir fontes consistentes */
+body {
+  @apply bg-gray-50 text-gray-900;
+  font-family: 'Inter', sans-serif; /* Opcional: se quiser usar fonte padrão do sistema */
+}
